@@ -1,1 +1,1 @@
-https://donaldtread.duckdns.org/
+https://donaldtread.duckdns.org/api
