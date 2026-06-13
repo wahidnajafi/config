@@ -1,1 +1,1 @@
-https://donaldtread.duckdns.org/api
+local
